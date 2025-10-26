@@ -55,6 +55,8 @@ Other Projects
 ======
 * E-commerce:
   * Created and designed 5 e-commerce stores using utilities like Shopify. Established relationships with suppliers and managed inventory stock. Implemented Facebook and TikTok ads, pixel tracking and SEO strategies to drive traffic and sales.
+* AI creations:
+  * AI is the future, and that’s why I am giving a lot of time to develop my skills and my understanding on this subject. 
 
 
 
