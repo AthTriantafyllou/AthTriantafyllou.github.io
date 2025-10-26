@@ -34,33 +34,36 @@ Work experience
 Programming and Software Skills
 ======
 * Programming
-  * Proficient: Python
-  * Competent: C, Java, Javascript, HTML5, CSS
-  * Learning: PHP, SQL
+  * <b>Proficient:</b> Python
+  * <b>Competent:</b> C, Java, Javascript, HTML5, CSS
+  * <b>Learning:</b> PHP, SQL
 * OS
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  * <b>Proficient:</b> Mac, Windows
 * Other
+  * <b>Proficient:</b> Wordpress, Elementor
+  * <b>Learning:</b> Machine Learning GPTs
+* Languages
+  * <b>Greek</b> Native
+  * <b>English</b> Proficient User (C2)
+  * <b>French</b> Independent User (A1)
 
-Publications
+ 
+
+
+Other Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* E-commerce:
+  * Created and designed 5 e-commerce stores using utilities like Shopify. Established relationships with suppliers and managed inventory stock. Implemented Facebook and TikTok ads, pixel tracking and SEO strategies to drive traffic and sales.
+
+
+
+Soft Skills & Extras
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Human Interaction:
+  * Having worked as a trainer and a manager I have come across difficult situations with people. I have learned how to handle situations like this where emotions overcome logical thinking.
+* Decision making:
+  * Being able to judge quickly and make the best decision possible with little or no room to think has been my life for the last 3 years. Working hands on, day in , day out I have mastered that skill to the fullest.
+* Focus: 
+  * I have developed the skill to not crumble under pressure or work load, one step at a time and well organised work will get you to the finish line quicker.
+* Travelling:
+  * I have a passion for exploring the world. That’s why every time I have the chance to take a trip abroad, expand my knowledge of the world, the communities, the cultures, I’ll do it. Having met lots of different people from lots of different countries and cultures during my travels fueled this passion even more, and helped me develop the skill of quickly adapting to each situation.
