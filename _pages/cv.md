@@ -11,35 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor in Applied Informatics, University of Macedonia, early 2026 (expected)
+  * <b>Course Highlights:</b> Artificial Intelligence, Procedural Programming (C), Big Data Analysis, Web Programming, Computer Systems, Data Structures
+* High School, Thessaloniki, Greece, 09/2018-06/2021
+  * Graduated with distinction: 18.6/20
+  * Member of the robotics engineering high school team
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Co-founder and Developer - GoMeta, Thessaloniki, Greece - 07/2021 to Present
+  * Web Developer of more than 10 clients projects
+  * Crafted expertise in WordPress, JavaScript, CSS, HTML5 Elementor, Photoshop, Canva, adept in creating captivating websites and visuals
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Freelancer - Useappility, Thessaloniki, Greece - 2022-2023
+  * Cooperation with [Useappility IKE](https://useappility.com){:target="_blank"} within the framework of the research project [ADAPT](https://useappility.com/en/adapt_app/){:target="_blank"} (2022)
+  * Promoted and secured sales for their developed app [AppIT](https://appit.info){:target="_blank"} (2023)
   
-Skills
+
+
+  
+Programming and Software Skills
 ======
-* Skill 1
-* Skill 2
+* Programming
+  * Proficient: Python
+  * Competent: C, Java, Javascript, HTML5, CSS
+  * Learning: PHP, SQL
+* OS
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Other
 
 Publications
 ======
