@@ -1,6 +1,6 @@
 ---
 title: "Web Development"
-excerpt: "Co-Founder of GoMeta, a web and app developing personal firm.<br/><img src='/images/gometa.png' width:'500'>"
+excerpt: "Co-Founder of GoMeta, a web and app developing personal firm.<br/><img src='/images/gometa.png'>"
 collection: portfolio
 ---
 
