@@ -70,3 +70,8 @@ Soft Skills & Extras
   * I have developed the skill to not crumble under pressure or work load, one step at a time and well organised work will get you to the finish line quicker.
 * Travelling:
   * I have a passion for exploring the world. That’s why every time I have the chance to take a trip abroad, expand my knowledge of the world, the communities, the cultures, I’ll do it. Having met lots of different people from lots of different countries and cultures during my travels fueled this passion even more, and helped me develop the skill of quickly adapting to each situation.
+
+
+
+
+ 🔗 [Download CV (PDF)](https://athtriantafyllou.github.io/assets/files/CV_THANASIS.pdf){:target="_blank"}
