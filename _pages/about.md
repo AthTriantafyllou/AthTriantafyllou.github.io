@@ -7,22 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Hey, my name is Athanasios Triantafyllou. I am currently a student at the University of Macedonia in Thessaloniki and a business enthusiast. Developing my skills daily trying to get closer to perfection on various subjects that I am going to talk about in just a second.
+I am a final year student at the University of Macedonia, studying Applied Informatics.
+I’m passionate about technology, business, and innovation, constantly building skills that connect tech with real-world impact.
 
 
-The past years I have been into web developing, with my firm called GoMeta. But my passion for technology extends beyond just web development. I have also dabbled in application development for smartphones and search engine optimisation (SEO). Being the co-founder of GoMeta has given me the opportunity to make these areas become like a game to me, and I am constantly seeking new challenges and ways to improve my skills.
+Right now, I’m diving deeper into Artificial Intelligence, trying to understand how AI can change the way we build and use digital tools. I’ve started creating small AI-based projects on my own and sharing them on GitHub — mostly to learn, but also because I really enjoy experimenting.
 
 
-But it does not stop there, I have cooperate with Useappility IKE within the framework of the research project ADAPT, Created good connections with the developers of the Useappility team Looking forward for future cooperations.
+A few years ago, I co-founded GoMeta, a small web development team where we’ve built websites for several clients. That’s where I really got into WordPress, JavaScript, HTML, CSS, and design tools like Elementor, Photoshop, and Canva. I enjoy turning ideas into clean, functional websites that actually work for people.
 
 
-Currently, I am focused on artificial intelligence (AI) and exploring the vast possibilities that it presents. As an AI enthusiast, I am eager to learn more about how this transformative technology can be applied to various fields and industries.
+I also worked with Useappility IKE on a research project called ADAPT, and later helped promote their app AppIT. Those experiences gave me a better understanding of how tech connects with business and users — not just code, but the full process.
 
 
-As a student, I had the time to work as a manager for staff and inventory on a cafe in Thessaloniki, where my responsibilities were over the roof. When you are in charge of expensive inventory and also a team you have to learn how to work under pressure, how to be at the best of your ability every day, how to tackle difficult situations were emotions overcome logic, and still conquer these problems one be one. Being organised combined with the keen eye to details all of these become easy tasks.
+Outside of tech, I’ve worked as a manager in a busy café, handling both people and inventory. That taught me a lot about responsibility, communication, and how to stay calm when things get chaotic.
 
 
-In addition to my web development expertise, I have also delved into the world of non-fungible tokens (NFTs). Over the year of 2021, I have created NFT projects, bought and sold others, and developed a deep understanding of this exciting new market.
-
-
-Thank you for taking the time to learn a little more about me. I am excited to continue pushing the boundaries and can't wait to see what the future holds in store!
+I’m always looking for new challenges — whether it’s building something cool, learning a new skill, or collaborating with people who share the same drive to create and grow.
