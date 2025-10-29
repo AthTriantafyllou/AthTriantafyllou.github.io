@@ -14,13 +14,13 @@ I’m passionate about technology, business, and innovation, constantly building
 Right now, I’m diving deeper into Artificial Intelligence, trying to understand how AI can change the way we build and use digital tools. I’ve started creating small AI-based projects on my own and sharing them on GitHub — mostly to learn, but also because I really enjoy experimenting.
 
 
-A few years ago, I co-founded GoMeta, a small web development team where we’ve built websites for several clients. That’s where I really got into WordPress, JavaScript, HTML, CSS, and design tools like Elementor, Photoshop, and Canva. I enjoy turning ideas into clean, functional websites that actually work for people.
+A few years ago, I co-founded [GoMeta](https://gometa.gr){:target="_blank"}, a tech firm where we’ve built websites for several clients, and now we are diving into AI tools. That’s where I really got into JavaScript, HTML, CSS, Wordpress and design tools like Elementor, Photoshop, and Canva. Now we are focus on developing AI tools for everyday use.
 
 
-I also worked with Useappility IKE on a research project called ADAPT, and later helped promote their app AppIT. Those experiences gave me a better understanding of how tech connects with business and users — not just code, but the full process.
+I also worked with [Useappility IKE](https://useappility.com){:target="_blank"} on a research project called [ADAPT](https://useappility.com/en/adapt_app/){:target="_blank"}, and later helped promote their app [AppIT](https://appit.info){:target="_blank"}. Those experiences gave me a better understanding of how tech connects with business and users — not just code, but the full process.
 
 
-Outside of tech, I’ve worked as a manager in a busy café, handling both people and inventory. That taught me a lot about responsibility, communication, and how to stay calm when things get chaotic.
+Outside of tech, I’ve worked as a manager in a brunch café, handling both people and inventory. That taught me a lot about responsibility, communication, and how to stay calm when things get chaotic.
 
 
 I’m always looking for new challenges — whether it’s building something cool, learning a new skill, or collaborating with people who share the same drive to create and grow.
