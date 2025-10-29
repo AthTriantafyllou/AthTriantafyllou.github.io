@@ -22,7 +22,8 @@ Work experience
 ======
 * Co-founder and Developer - GoMeta, Thessaloniki, Greece - 07/2021 to Present
   * Web Developer of more than 10 clients projects
-  * Crafted expertise in WordPress, JavaScript, CSS, HTML5 Elementor, Photoshop, Canva, adept in creating captivating websites and visuals
+  * Experimenting with AI tools
+  * Crafted expertise in JavaScript, CSS, HTML5, WordPress, Photoshop, Canva, adept in creating captivating websites and visuals
 
 * Freelancer - Useappility, Thessaloniki, Greece - 2022-2023
   * Cooperation with [Useappility IKE](https://useappility.com){:target="_blank"} within the framework of the research project [ADAPT](https://useappility.com/en/adapt_app/){:target="_blank"} (2022)
