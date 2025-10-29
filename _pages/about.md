@@ -14,7 +14,10 @@ I’m passionate about technology, business, and innovation, constantly building
 Right now, I’m diving deeper into Artificial Intelligence, trying to understand how AI can change the way we build and use digital tools. I’ve started creating small AI-based projects on my own and sharing them on GitHub — mostly to learn, but also because I really enjoy experimenting.
 
 
-A few years ago, I co-founded [GoMeta](https://gometa.gr){:target="_blank"}, a tech firm where we’ve built websites for several clients, and now we are diving into AI tools. That’s where I really got into JavaScript, HTML, CSS, Wordpress and design tools like Elementor, Photoshop, and Canva. Now we are focus on developing AI tools for everyday use.
+A few years ago, I co-founded [GoMeta](https://gometa.gr){:target="_blank"}, a tech firm where we’ve built websites for several clients, and now we are diving into <b>creating AI tools</b>. That's where I really got into Javascript, Python, CSS, HTML and other design tools. My passion for exploring new tech is just starting out.
+
+
+<b>On a second note...</b>
 
 
 I also worked with [Useappility IKE](https://useappility.com){:target="_blank"} on a research project called [ADAPT](https://useappility.com/en/adapt_app/){:target="_blank"}, and later helped promote their app [AppIT](https://appit.info){:target="_blank"}. Those experiences gave me a better understanding of how tech connects with business and users — not just code, but the full process.
