@@ -21,12 +21,12 @@ Education
 Work experience
 ======
 * Co-founder and Developer - GoMeta, Thessaloniki, Greece - 07/2021 to Present
-  * Web Developer of more than 10 clients projects
-  * Experimenting with AI tools
-  * Crafted expertise in JavaScript, CSS, HTML5, WordPress, Photoshop, Canva, adept in creating captivating websites and visuals
+  * Web Developer
+  * Expertise in JavaScript, CSS, HTML5, WordPress, Photoshop, Canva
+  * Learning PostgreSQL, FastAPI, Debian
 
 * Freelancer - Useappility, Thessaloniki, Greece - 2022-2023
-  * Cooperation with [Useappility IKE](https://useappility.com){:target="_blank"} within the framework of the research project [ADAPT](https://useappility.com/en/adapt_app/){:target="_blank"} (2022)
+  * Web developer for [Useappility IKE](https://useappility.com){:target="_blank"} within the framework of the research project [ADAPT](https://useappility.com/en/adapt_app/){:target="_blank"} (2022)
   * Promoted and secured sales for their developed app [AppIT](https://appit.info){:target="_blank"} (2023)
   
 
@@ -54,7 +54,7 @@ Programming and Software Skills
 Other Projects
 ======
 * AI creations:
-  * As an AI enthusiast I’m giving a lot of time to develop my skills and my understanding on this subject. The past few months I started building my own tools using AI. Find more on my Github.
+  * As an AI enthusiast I’m giving a lot of time to develop my skills and my understanding on this subject. The past few months I started building my own tools using servers with PostgreSQL, FastAPI and Debian OS. Find more on my Github.
 * E-commerce:
   * Created and designed 5 e-commerce stores using utilities like Shopify. Established relationships with suppliers and managed inventory stock. Implemented Facebook and TikTok ads, pixel tracking and SEO strategies to drive traffic and sales.
 
