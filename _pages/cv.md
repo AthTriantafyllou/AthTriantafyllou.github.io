@@ -36,13 +36,13 @@ Programming and Software Skills
 ======
 * Programming
   * <b>Proficient:</b> Python
-  * <b>Competent:</b> C, Java, Javascript, HTML5, CSS
-  * <b>Learning:</b> PHP, SQL
+  * <b>Competent:</b> C, Javascript, CSS, PHP
+  * <b>Learning:</b> PostgreSQL, FastAPI
 * OS
   * <b>Proficient:</b> Mac, Windows
+  * <b>Learning:</b> Debian
 * Other
   * <b>Proficient:</b> Wordpress, Elementor
-  * <b>Learning:</b> Machine Learning GPTs
 * Languages
   * <b>Greek</b> Native
   * <b>English</b> Proficient User (C2)
