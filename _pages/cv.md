@@ -55,8 +55,8 @@ Other Projects
 ======
 * AI creations:
   * As an AI enthusiast I’m giving a lot of time to develop my skills and my understanding on this subject. The past few months I started building my own tools using servers with PostgreSQL, FastAPI and Debian OS. Find more on my Github.
-* E-commerce:
-  * Created and designed 5 e-commerce stores using utilities like Shopify. Established relationships with suppliers and managed inventory stock. Implemented Facebook and TikTok ads, pixel tracking and SEO strategies to drive traffic and sales.
+* Software Development:
+  * I have developed some games from scratch in order to sharpen my skills in Javascript, CSS, HTML and other programming languages and tools. Find more [here](https://thanfyllou.eu/second_brain/index.html){:target="_blank"}
 
 
 
