@@ -14,20 +14,19 @@ Education
 * Bachelor in Applied Informatics, University of Macedonia, early 2026 (expected)
   * <b>Course Highlights:</b> Artificial Intelligence, Procedural Programming (C), Big Data Analysis, Web Programming, Computer Systems, Data Structures
 * High School, Thessaloniki, Greece, 09/2018-06/2021
-  * Graduated with distinction: 18.6/20
+  * Graduated with distinction
   * Member of the robotics engineering high school team
 
 
 Work experience
 ======
-* Co-founder and Developer - GoMeta, Thessaloniki, Greece - 07/2021 to Present
-  * Web Developer
-  * Expertise in JavaScript, CSS, HTML5, WordPress, Photoshop, Canva
+* Junior Software & Web Developer - GoMeta, Thessaloniki, Greece - 07/2023 to Present
+  * Developer for [GoMeta](https://gometa.gr)
+  * Expertise in JavaScript, CSS, Python, Photoshop, Canva
   * Learning PostgreSQL, FastAPI, Debian
 
-* Freelancer - Useappility, Thessaloniki, Greece - 2022-2023
-  * Web developer for [Useappility IKE](https://useappility.com){:target="_blank"} within the framework of the research project [ADAPT](https://useappility.com/en/adapt_app/){:target="_blank"} (2022)
-  * Promoted and secured sales for their developed app [AppIT](https://appit.info){:target="_blank"} (2023)
+* Freelancer - Useappility, Thessaloniki, Greece - 07/2022
+  * Web developer for [Useappility IKE](https://useappility.com){:target="_blank"} within the framework of the research project [ADAPT](https://useappility.com/en/adapt_app/){:target="_blank"}
   
 
 
@@ -35,14 +34,13 @@ Work experience
 Programming and Software Skills
 ======
 * Programming
-  * <b>Proficient:</b> Python
-  * <b>Competent:</b> C, Javascript, CSS, PHP
-  * <b>Learning:</b> PostgreSQL, FastAPI
+  * <b>Competent:</b> Python, Javascript, HTML5, CSS
+  * <b>Learning:</b> PHP, SQL
 * OS
   * <b>Proficient:</b> Mac, Windows
   * <b>Learning:</b> Debian
 * Other
-  * <b>Proficient:</b> Wordpress, Elementor
+  * <b>Proficient:</b> Wordpress, Elementor, Canva, Photoshop
 * Languages
   * <b>Greek</b> Native
   * <b>English</b> Proficient User (C2)
@@ -53,10 +51,10 @@ Programming and Software Skills
 
 Other Projects
 ======
-* AI creations:
-  * As an AI enthusiast I’m giving a lot of time to develop my skills and my understanding on this subject. The past few months I started building my own tools using servers with PostgreSQL, FastAPI and Debian OS. Find more on my Github.
 * Software Development:
-  * I have developed some games from scratch in order to sharpen my skills in Javascript, CSS, HTML and other programming languages and tools. Find more [here](https://thanfyllou.eu/second_brain/index.html){:target="_blank"}
+  * I have developed some games from scratch in order to sharpen my skills in Javascript, CSS, HTML and other programming languages and tools. Find more on [Than's Projects](https://thanfyllou.eu/second_brain/index.html){:target="_blank"}
+* AI Creations:
+  * As an AI enthusiast I’m giving a lot of time to develop my skills and my understanding on this subject. In the past few months we have started building new tools with [GoMeta](https://gometa.gr) using servers with PostgreSQL, FastAPI and Debian OS. Find more on my [Github](https://github.com/AthTriantafyllou)
 
 
 
