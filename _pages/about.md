@@ -17,7 +17,7 @@ I'm currently sharpening my skills on these fields, trying to learn more. I beli
 You can find my side projects at [Than's Projects](https://thanfyllou.eu/second_brain/index.html){:target="_blank"}.
 
 
-A few years ago, I've joined [GoMeta](https://gometa.gr){:target="_blank"}, a tech firm where we’ve built websites for several clients, and now we are diving into <b>creating AI tools</b>. That's where I really got into PostgreSQL, DebianOS, React.js and other tools. My passion for exploring new tech has always been there.
+A few years ago, I've joined [GoMeta](https://gometa.gr){:target="_blank"}, a tech firm where we’ve built websites for several clients, and now we are diving into <b>creating AI tools</b>. That's where I really got into PostgreSQL, DebianOS, React.js and other tools. You can find this project [Here](https://myaips.cloud/){:target="_blank"}.
 
 
 <b>On a second note...</b>
