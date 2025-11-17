@@ -54,7 +54,7 @@ Other Projects
 * Software Development:
   * I have developed some games from scratch in order to sharpen my skills in Javascript, CSS, HTML and other programming languages and tools. Find more on [Than's Projects](https://thanfyllou.eu/second_brain/index.html){:target="_blank"}
 * AI Creations:
-  * As an AI enthusiast I’m giving a lot of time to develop my skills and my understanding on this subject. In the past few months we have started building new tools with [GoMeta](https://gometa.gr) using servers with PostgreSQL, FastAPI and Debian OS. Find more on my [Github](https://github.com/AthTriantafyllou)
+  * As an AI enthusiast I’m giving a lot of time to develop my skills and my understanding on this subject. In the past few months we have started building new tools with [GoMeta](https://gometa.gr) using servers with PostgreSQL, FastAPI and Debian OS. Find more [here](https://myaips.cloud/){:target="_blank"}.
 
 
 
