@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,68 +9,74 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Bachelor in Applied Informatics, University of Macedonia, early 2026 (expected)
-  * <b>Course Highlights:</b> Artificial Intelligence, Procedural Programming (C), Big Data Analysis, Web Programming, Computer Systems, Data Structures
-* High School, Thessaloniki, Greece, 09/2018-06/2021
-  * Graduated with distinction
-  * Member of the robotics engineering high school team
+## Education
 
+**Bachelor in Applied Informatics** — University of Macedonia, Thessaloniki
+*09/2021 – 02/2026*
+- Relevant coursework: Artificial Intelligence, Big Data Analysis, Web Programming, Data Structures, Computer Systems, Procedural Programming (C)
 
-Work experience
-======
-* Junior Software & Web Developer - GoMeta, Thessaloniki, Greece - 07/2023 to Present
-  * Developer for [GoMeta](https://gometa.gr)
-  * Expertise in JavaScript, CSS, Python, Photoshop, Canva
-  * Learning PostgreSQL, FastAPI, Debian
+**High School Diploma** — Thessaloniki, Greece
+*09/2018 – 06/2021*
+- Graduated with distinction. Member of the school robotics engineering team.
 
-* Freelancer - Useappility, Thessaloniki, Greece - 07/2022
-  * Web developer for [Useappility IKE](https://useappility.com){:target="_blank"} within the framework of the research project [ADAPT](https://useappility.com/en/adapt_app/){:target="_blank"}
-  
+---
 
+## Work Experience
 
-  
-Programming and Software Skills
-======
-* Programming
-  * <b>Competent:</b> Python, Javascript, HTML5, CSS
-  * <b>Learning:</b> PHP, SQL
-* OS
-  * <b>Proficient:</b> Mac, Windows
-  * <b>Learning:</b> Debian
-* Other
-  * <b>Proficient:</b> Supabase, Wordpress, Elementor, Canva, Photoshop
-* Languages
-  * <b>Greek</b> Native
-  * <b>English</b> Proficient User (C2)
-  * <b>French</b> Independent User (A1)
+**Junior Software & Web Developer** — GoMeta, Thessaloniki
+*07/2023 – 05/2026*
+- Designed and developed websites for clients using HTML, CSS, JavaScript, and WordPress, progressing from template-based builds to fully custom-coded solutions.
+- Contributed to the development of an AI assistant tool ([myaips.cloud](https://myaips.cloud){:target="_blank"}) using Python, FastAPI, PostgreSQL, and Docker on a Debian server.
+- Handled front-end design tasks including graphics and layout work with Photoshop and Canva.
 
- 
+**Data Entry Specialist** — Scripta, Thessaloniki
+*03/2026 – 05/2026*
+- Processed and transferred structured records across internal systems with accuracy and consistency.
 
+**Staff & Inventory Manager** — Plenty, Thessaloniki
+*10/2022 – 08/2025*
+- Managed daily inventory and supplier orders for a busy café environment.
+- Responsible for hiring, onboarding, and training new staff members.
+- Handled scheduling and team coordination, maintaining operations under pressure.
 
-Other Projects
-======
-* Software Development:
-  * I have developed a 'PWA' app that is helping you build good habits on your day to day life. Mostly for my personal use but also to learn how they work. Find more on the [Steaks App](https://thanfyllou.eu/streaks/index.html){:target="_blank"} intro page.
-  * While experimenting with coding I developed some games from scratch in order to sharpen my skills in Javascript, CSS, HTML and other programming languages and tools. Find more on [Than's Projects](https://thanfyllou.eu/second_brain/index.html){:target="_blank"}
-* AI Creations:
-  * As an AI enthusiast I’m giving a lot of time to develop my skills and my understanding on this subject. In the past few months we have started building new tools with [GoMeta](https://gometa.gr) using servers with PostgreSQL, FastAPI and Debian OS. Find more [here](https://myaips.cloud/){:target="_blank"}.
+**Freelance Web Developer** — Useappility IKE, Thessaloniki
+*07/2022*
+- Worked within the [ADAPT](https://useappility.com/en/adapt_app/){:target="_blank"} research project, integrating structured data into a WordPress-based platform.
+- Collected, translated, and formatted data into JSON for use in a mobile application.
 
+---
 
+## Skills
 
-Soft Skills & Extras
-======
-* Human Interaction:
-  * Having worked as a trainer and a manager I have come across difficult situations with people. I have learned how to handle situations like this where emotions overcome logical thinking.
-* Decision making:
-  * Being able to judge quickly and make the best decision possible with little or no room to think has been my life for the last 3 years. Working hands on, day in , day out I have mastered that skill to the fullest.
-* Focus: 
-  * I have developed the skill to not crumble under pressure or work load, one step at a time and well organised work will get you to the finish line quicker.
-* Travelling:
-  * I have a passion for exploring the world. That’s why every time I have the chance to take a trip abroad, expand my knowledge of the world, the communities, the cultures, I’ll do it. Having met lots of different people from lots of different countries and cultures during my travels fueled this passion even more, and helped me develop the skill of quickly adapting to each situation.
+**Proficient:** Python, JavaScript, HTML5, CSS, WordPress, Elementor
 
+**Familiar:** PostgreSQL, FastAPI, Docker, Debian, Supabase, PHP
 
+**Tools:** Photoshop, Canva, Microsoft Office, Git
 
+**Operating Systems:** macOS, Windows, Debian Linux
 
- 🔗 [Download CV (PDF)](https://athtriantafyllou.github.io/assets/files/CV_THANASIS.pdf){:target="_blank"}
+---
+
+## Languages
+
+- **Greek** — Native
+- **English** — Proficient (C2)
+- **French** — Basic (A1)
+
+---
+
+## Projects
+
+**Streaks — Habit Tracking PWA**
+- Built a Progressive Web App from scratch using vanilla JavaScript, HTML, and CSS to track daily habits. Designed for personal use and as a learning exercise in PWA architecture. [View project](https://thanfyllou.eu/streaks/index.html){:target="_blank"}
+
+**Browser Games Collection**
+- Developed several browser games from scratch to sharpen JavaScript, CSS, and HTML skills through practical experimentation. [View projects](https://thanfyllou.eu/second_brain/index.html){:target="_blank"}
+
+**AI Assistant Backend — GoMeta**
+- Contributed to the back-end infrastructure of an AI assistant using FastAPI, PostgreSQL, Docker, and Debian OS. Gained practical experience with server deployment and API development. [View project](https://myaips.cloud){:target="_blank"}
+
+---
+
+🔗 [Download CV (PDF)](https://athtriantafyllou.github.io/assets/files/CV_THANASIS.pdf)
