@@ -74,7 +74,7 @@ redirect_from:
 - Contributed to the back-end infrastructure of an AI detection tool based on YOLO open source models and fine tuned on specific cameras live feed. Ported a Linux application to Windows and automated the Windows release process with GitHub Actions. Gained practical experience in machine learning model training and collaborating on shared, pre-existing software architectures. [View project](https://github.com/AthTriantafyllou/){:target="_blank"}
 
 **Streaks — Habit Tracking App**
-- Streaks is a daily habit tracker built Built for personal use and as a hands-on exercise. Stack: React, TypeScript, Vite, Supabase (Postgres and Auth) . [View project](https://thanfyllou.eu/streaks/index.html){:target="_blank"}
+- Streaks is a daily habit tracker built for personal use and as a hands-on exercise. Stack: React, TypeScript, Vite, Supabase (Postgres and Auth). [View project](https://thanfyllou.eu/streaks/index.html){:target="_blank"}
 
 **AI Assistant Backend — GoMeta**
 - Contributed to the back-end infrastructure of an AI assistant using FastAPI, PostgreSQL, Docker, and Debian OS. Gained practical experience with server deployment and API development. [View project](https://myaips.cloud){:target="_blank"}
