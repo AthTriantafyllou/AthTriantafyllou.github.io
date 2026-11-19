@@ -23,7 +23,7 @@ redirect_from:
 
 ## Work Experience
 
-**Junior Software & Web Developer** — GoMeta, Thessaloniki
+**Software & Web Developer** — GoMeta, Thessaloniki
 *07/2023 – 05/2026*
 - Designed and developed websites for clients using HTML, CSS, JavaScript, and WordPress, progressing from template-based builds to fully custom-coded solutions.
 - Contributed to the development of an AI assistant tool ([myaips.cloud](https://myaips.cloud){:target="_blank"}) using Python, FastAPI, PostgreSQL, and Docker on a Debian server.
@@ -54,7 +54,9 @@ redirect_from:
 
 **Tools:** Photoshop, Canva, Microsoft Office, Git
 
-**Operating Systems:** macOS, Windows, Debian Linux
+**Operating Systems:** MacOS, Windows, Linux (Ubuntu, Manjaro)
+
+**AI & Productivity Tools:** Claude, ChatGPT, Gemini, Higgsfield AI, Notion AI
 
 ---
 
@@ -68,14 +70,21 @@ redirect_from:
 
 ## Projects
 
+**AI Video Analytics: Model Training and Cross-Platform Deployment**
+- Contributed to the back-end infrastructure of an AI detection tool based on YOLO open source models and fine tuned on specific cameras live feed. Improved the performance on already trained model with more data. Ported a Linux application to Windows and automated the Windows release process with GitHub Actions. Gained practical experience in machine learning model training and collaborating on shared, pre-existing software architectures. [View project](https://github.com/AthTriantafyllou/){:target="_blank"}
+
 **Streaks — Habit Tracking App**
 - Streaks is a daily habit tracker built Built for personal use and as a hands-on exercise. Stack: React, TypeScript, Vite, Supabase (Postgres and Auth) . [View project](https://thanfyllou.eu/streaks/index.html){:target="_blank"}
+
+**AI Assistant Backend — GoMeta**
+- Contributed to the back-end infrastructure of an AI assistant using FastAPI, PostgreSQL, Docker, and Debian OS. Gained practical experience with server deployment and API development. [View project](https://myaips.cloud){:target="_blank"}
 
 **Browser Games Collection**
 - Developed several browser games from scratch to sharpen JavaScript, CSS, and HTML skills through practical experimentation. [View projects](https://thanfyllou.eu/second_brain/index.html){:target="_blank"}
 
-**AI Assistant Backend — GoMeta**
-- Contributed to the back-end infrastructure of an AI assistant using FastAPI, PostgreSQL, Docker, and Debian OS. Gained practical experience with server deployment and API development. [View project](https://myaips.cloud){:target="_blank"}
+
+
+
 
 ---
 
