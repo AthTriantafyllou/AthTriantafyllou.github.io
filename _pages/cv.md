@@ -24,7 +24,7 @@ redirect_from:
 ## Work Experience
 
 **Software & Web Developer** — GoMeta, Thessaloniki
-*07/2023 – 05/2026*
+*07/2023 – Present*
 - Designed and developed websites for clients using HTML, CSS, JavaScript, and WordPress, progressing from template-based builds to fully custom-coded solutions.
 - Contributed to the development of an AI assistant tool ([myaips.cloud](https://myaips.cloud){:target="_blank"}) using Python, FastAPI, PostgreSQL, and Docker on a Debian server.
 - Handled front-end design tasks including graphics and layout work with Photoshop and Canva.
