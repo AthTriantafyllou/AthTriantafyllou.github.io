@@ -68,8 +68,8 @@ redirect_from:
 
 ## Projects
 
-**Streaks — Habit Tracking PWA**
-- Built a Progressive Web App from scratch using vanilla JavaScript, HTML, and CSS to track daily habits. Designed for personal use and as a learning exercise in PWA architecture. [View project](https://thanfyllou.eu/streaks/index.html){:target="_blank"}
+**Streaks — Habit Tracking App**
+- Streaks is a daily habit tracker built Built for personal use and as a hands-on exercise. Stack: React, TypeScript, Vite, Supabase (Postgres and Auth) . [View project](https://thanfyllou.eu/streaks/index.html){:target="_blank"}
 
 **Browser Games Collection**
 - Developed several browser games from scratch to sharpen JavaScript, CSS, and HTML skills through practical experimentation. [View projects](https://thanfyllou.eu/second_brain/index.html){:target="_blank"}
