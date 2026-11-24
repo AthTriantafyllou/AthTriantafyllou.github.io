@@ -21,41 +21,6 @@ redirect_from:
 
 ---
 
-## Technical Skills
-
-**Programming Languages:** Python, JavaScript, C
-
-**AI & Machine Learning:** YOLO, Machine Learning Model Training, Model Fine-Tuning
-
-**Data & Databases:** PostgreSQL, Structured Data Processing, JSON, Supabase
-
-**Backend & Software Development:** FastAPI, Docker, Git, GitHub Actions, Linux
-
-**Web Development:** HTML, CSS, React, TypeScript, WordPress, PHP
-
-**Tools & Platforms:** Debian, Ubuntu, macOS, Windows
-
----
-
-## Projects
-
-**AI Video Analytics: Model Training and Cross-Platform Deployment**
-- Contributed to the development and deployment of an AI-powered detection system based on YOLO open-source models, fine-tuned using camera-specific video footage.
-- Gained practical experience with machine learning workflows, including model training and adaptation to specific detection scenarios.
-- Worked on backend infrastructure and software integration within an existing application architecture.
-- Ported a Linux-based application to Windows and automated the Windows release process using GitHub Actions. [View project](https://github.com/AthTriantafyllou/){:target="_blank"}
-
-**AI Assistant Backend — GoMeta**
-- Contributed to the development of an AI assistant application using Python and FastAPI.
-- Worked with PostgreSQL for data storage and Docker for application containerisation.
-- Gained experience in backend development, API integration, and Linux server deployment. [View project](https://myaips.cloud){:target="_blank"}
-
-**Streaks — Habit Tracking App**
-- Developed a personal habit-tracking application using React, TypeScript, Vite, and Supabase.
-- Implemented application functionality, authentication, and PostgreSQL-backed data storage. [View project](https://thanfyllou.eu/streaks/index.html){:target="_blank"}
-
----
-
 ## Work Experience
 
 **Software Developer** — GoMeta, Thessaloniki
@@ -80,6 +45,49 @@ redirect_from:
 
 ---
 
+## Projects
+
+**AI Video Analytics: Model Training and Cross-Platform Deployment**
+- Contributed to the development and deployment of an AI-powered detection system based on YOLO open-source models, fine-tuned using camera-specific video footage.
+- Gained practical experience with machine learning workflows, including model training and adaptation to specific detection scenarios.
+- Worked on backend infrastructure and software integration within an existing application architecture.
+- Ported a Linux-based application to Windows and automated the Windows release process using GitHub Actions. [View project](https://github.com/AthTriantafyllou/){:target="_blank"}
+
+**AI Assistant Backend — GoMeta**
+- Contributed to the development of an AI assistant application using Python and FastAPI.
+- Worked with PostgreSQL for data storage and Docker for application containerisation.
+- Gained experience in backend development, API integration, and Linux server deployment. [View project](https://myaips.cloud){:target="_blank"}
+
+**Streaks — Habit Tracking App**
+- Developed a personal habit-tracking application using React, TypeScript, Vite, and Supabase.
+- Implemented application functionality, authentication, and PostgreSQL-backed data storage. [View project](https://thanfyllou.eu/streaks/index.html){:target="_blank"}
+
+---
+
+## Languages
+
+**Greek** — Native
+
+**English** — Proficient (C2)
+
+---
+
+## Technical Skills
+
+**Programming Languages:** Python, JavaScript, C
+
+**AI & Machine Learning:** YOLO, Machine Learning Model Training, Model Fine-Tuning
+
+**Data & Databases:** PostgreSQL, Structured Data Processing, JSON, Supabase
+
+**Backend & Software Development:** FastAPI, Docker, Git, GitHub Actions, Linux
+
+**Web Development:** HTML, CSS, React, TypeScript, WordPress, PHP
+
+**Tools & Platforms:** Debian, Ubuntu, macOS, Windows
+
+---
+
 ## Technical Interests
 
 Artificial Intelligence · Machine Learning · Data Science & Analysis · Computer Vision · Intelligent Systems · Software Engineering
@@ -90,13 +98,7 @@ Artificial Intelligence · Machine Learning · Data Science & Analysis · Comput
 
 Analytical Thinking & Problem-Solving · Adaptability & Continuous Learning · Team Collaboration & Communication · Organisation & Attention to Detail · Decision-Making Under Pressure
 
----
 
-## Languages
-
-**Greek** — Native
-
-**English** — Proficient (C2)
 
 
 
