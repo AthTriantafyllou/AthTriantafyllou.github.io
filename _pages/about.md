@@ -7,14 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a **Software & Web Developer** and Applied Informatics graduate based in Thessaloniki, Greece. I work across the full stack — from clean front-ends to backend infrastructure and AI tooling.
+I'm an Applied Informatics graduate based in Thessaloniki, Greece, with a strong interest in AI, Machine Learning, and Data Analysis. I have experience in software development, Python-based backend systems, and working on AI-related projects, including machine learning model training and deployment. I'm always interested in exploring new technologies, building useful software, and learning more about how AI and data can be applied to real-world problems.
 
-Over the past few years I've been a developer at [GoMeta](https://gometa.gr){:target="_blank"}, a tech firm where I built websites for clients and contributed to the development of an AI assistant product ([myaips.cloud](https://myaips.cloud){:target="_blank"}) using Python, FastAPI, PostgreSQL, and Docker on a Debian server.
-
-I also did a short freelance engagement with [Useappility IKE](https://useappility.com){:target="_blank"} on the [ADAPT](https://useappility.com/en/adapt_app/){:target="_blank"} research project, integrating and formatting structured JSON data into a WordPress-based platform.
-
-Outside of tech, I spent three years managing a café — handling staff, inventory, and daily operations. That experience taught me how to lead under pressure and stay organised when things move fast.
-
-Currently serving mandatory military service (ending February 2027), and using that period to research master's programmes and opportunities in data, AI, and software roles abroad.
-
-You can find my side projects on [my website](https://thanfyllou.eu/cv/index.html){:target="_blank"}.
+I'm currently completing my mandatory military service in Greece (June 2026 – February 2027), while looking into master's programmes and opportunities in software engineering, AI, and data-related fields.
