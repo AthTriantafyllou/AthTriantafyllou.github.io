@@ -88,17 +88,14 @@ Artificial Intelligence · Machine Learning · Data Science & Analysis · Comput
 
 ## Soft Skills
 
-Analytical Thinking & Problem-Solving
-Adaptability & Continuous Learning
-Team Collaboration & Communication
-Organisation & Attention to Detail
-Decision-Making Under Pressure
+Analytical Thinking & Problem-Solving · Adaptability & Continuous Learning · Team Collaboration & Communication · Organisation & Attention to Detail · Decision-Making Under Pressure
 
 ---
 
 ## Languages
 
 **Greek** — Native
+
 **English** — Proficient (C2)
 
 
