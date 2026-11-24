@@ -58,7 +58,7 @@ redirect_from:
 
 ## Work Experience
 
-**Software & Web Developer** — GoMeta, Thessaloniki
+**Software Developer** — GoMeta, Thessaloniki
 *07/2023 – Present*
 - Contributed to the development of an AI assistant platform ([myaips.cloud](https://myaips.cloud){:target="_blank"}), working with Python, FastAPI, PostgreSQL, and Docker.
 - Designed and developed websites and web-based applications using JavaScript, HTML, CSS, and WordPress.
@@ -82,7 +82,7 @@ redirect_from:
 
 ## Technical Interests
 
-- Artificial Intelligence · Machine Learning · Data Science & Analysis · Computer Vision · Intelligent Systems · Software Engineering
+Artificial Intelligence · Machine Learning · Data Science & Analysis · Computer Vision · Intelligent Systems · Software Engineering
 
 ---
 
