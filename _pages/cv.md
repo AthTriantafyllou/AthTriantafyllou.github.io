@@ -21,13 +21,48 @@ redirect_from:
 
 ---
 
+## Technical Skills
+
+**Programming Languages:** Python, JavaScript, C
+
+**AI & Machine Learning:** YOLO, Machine Learning Model Training, Model Fine-Tuning
+
+**Data & Databases:** PostgreSQL, Structured Data Processing, JSON, Supabase
+
+**Backend & Software Development:** FastAPI, Docker, Git, GitHub Actions, Linux
+
+**Web Development:** HTML, CSS, React, TypeScript, WordPress, PHP
+
+**Tools & Platforms:** Debian, Ubuntu, macOS, Windows
+
+---
+
+## Projects
+
+**AI Video Analytics: Model Training and Cross-Platform Deployment**
+- Contributed to the development and deployment of an AI-powered detection system based on YOLO open-source models, fine-tuned using camera-specific video footage.
+- Gained practical experience with machine learning workflows, including model training and adaptation to specific detection scenarios.
+- Worked on backend infrastructure and software integration within an existing application architecture.
+- Ported a Linux-based application to Windows and automated the Windows release process using GitHub Actions. [View project](https://github.com/AthTriantafyllou/){:target="_blank"}
+
+**AI Assistant Backend — GoMeta**
+- Contributed to the development of an AI assistant application using Python and FastAPI.
+- Worked with PostgreSQL for data storage and Docker for application containerisation.
+- Gained experience in backend development, API integration, and Linux server deployment. [View project](https://myaips.cloud){:target="_blank"}
+
+**Streaks — Habit Tracking App**
+- Developed a personal habit-tracking application using React, TypeScript, Vite, and Supabase.
+- Implemented application functionality, authentication, and PostgreSQL-backed data storage. [View project](https://thanfyllou.eu/streaks/index.html){:target="_blank"}
+
+---
+
 ## Work Experience
 
 **Software & Web Developer** — GoMeta, Thessaloniki
 *07/2023 – Present*
-- Designed and developed websites for clients using HTML, CSS, JavaScript, and WordPress, progressing from template-based builds to fully custom-coded solutions.
-- Contributed to the development of an AI assistant tool ([myaips.cloud](https://myaips.cloud){:target="_blank"}) using Python, FastAPI, PostgreSQL, and Docker on a Debian server.
-- Handled front-end design tasks including graphics and layout work with Photoshop and Canva.
+- Contributed to the development of an AI assistant platform ([myaips.cloud](https://myaips.cloud){:target="_blank"}), working with Python, FastAPI, PostgreSQL, and Docker.
+- Designed and developed websites and web-based applications using JavaScript, HTML, CSS, and WordPress.
+- Progressed from template-based implementations to custom-coded solutions, gaining experience in software development and application architecture.
 
 **Data Entry Specialist** — Scripta, Thessaloniki
 *03/2026 – 05/2026*
@@ -35,52 +70,38 @@ redirect_from:
 
 **Staff & Inventory Manager** — Plenty, Thessaloniki
 *10/2022 – 08/2025*
-- Managed daily inventory and supplier orders for a busy café environment.
-- Responsible for hiring, onboarding, and training new staff members.
-- Handled scheduling and team coordination, maintaining operations under pressure.
+- Managed inventory, supplier orders, and daily operational workflows in a fast-paced environment.
+- Responsible for recruitment, staff training, scheduling, and team coordination.
 
-**Freelance Web Developer** — Useappility IKE, Thessaloniki
+**Freelance Developer** — Useappility IKE, Thessaloniki
 *07/2022*
-- Worked within the [ADAPT](https://useappility.com/en/adapt_app/){:target="_blank"} research project, integrating structured data into a WordPress-based platform.
-- Collected, translated, and formatted data into JSON for use in a mobile application.
+- Worked within the [ADAPT](https://useappility.com/en/adapt_app/){:target="_blank"} research project, integrating structured datasets into a digital platform.
+- Collected, translated, transformed, and formatted data into JSON for integration with a mobile application.
 
 ---
 
-## Skills
+## Technical Interests
 
-**Proficient:** Python, JavaScript, HTML5, CSS, WordPress, Elementor
+- Artificial Intelligence · Machine Learning · Data Science & Analysis · Computer Vision · Intelligent Systems · Software Engineering
 
-**Familiar:** PostgreSQL, FastAPI, Docker, Debian, Supabase, PHP
+---
 
-**Tools:** Photoshop, Canva, Microsoft Office, Git
+## Soft Skills
 
-**Operating Systems:** MacOS, Windows, Linux (Ubuntu, Manjaro)
-
-**AI & Productivity Tools:** Claude, ChatGPT, Gemini, Higgsfield AI, Notion AI
+Analytical Thinking & Problem-Solving
+Adaptability & Continuous Learning
+Team Collaboration & Communication
+Organisation & Attention to Detail
+Decision-Making Under Pressure
 
 ---
 
 ## Languages
 
-- **Greek** — Native
-- **English** — Proficient (C2)
-- **French** — Basic (A1)
+**Greek** — Native
+**English** — Proficient (C2)
 
----
 
-## Projects
-
-**AI Video Analytics: Model Training and Cross-Platform Deployment**
-- Contributed to the back-end infrastructure of an AI detection tool based on YOLO open source models and fine tuned on specific cameras live feed. Ported a Linux application to Windows and automated the Windows release process with GitHub Actions. Gained practical experience in machine learning model training and collaborating on shared, pre-existing software architectures. [View project](https://github.com/AthTriantafyllou/){:target="_blank"}
-
-**Streaks — Habit Tracking App**
-- Streaks is a daily habit tracker built for personal use and as a hands-on exercise. Stack: React, TypeScript, Vite, Supabase (Postgres and Auth). [View project](https://thanfyllou.eu/streaks/index.html){:target="_blank"}
-
-**AI Assistant Backend — GoMeta**
-- Contributed to the back-end infrastructure of an AI assistant using FastAPI, PostgreSQL, Docker, and Debian OS. Gained practical experience with server deployment and API development. [View project](https://myaips.cloud){:target="_blank"}
-
-**Browser Games Collection**
-- Developed several browser games from scratch to sharpen JavaScript, CSS, and HTML skills through practical experimentation. [View projects](https://thanfyllou.eu/second_brain/index.html){:target="_blank"}
 
 
 
