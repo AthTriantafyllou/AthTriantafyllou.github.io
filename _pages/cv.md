@@ -23,15 +23,20 @@ redirect_from:
 
 ## Work Experience
 
-**Software Developer** — GoMeta, Thessaloniki
-*07/2023 – Present*
-- Contributed to the development of an AI assistant platform ([myaips.cloud](https://myaips.cloud){:target="_blank"}), working with Python, FastAPI, PostgreSQL, and Docker.
-- Designed and developed websites and web-based applications using JavaScript, HTML, CSS, and WordPress.
-- Progressed from template-based implementations to custom-coded solutions, gaining experience in software development and application architecture.
+**Junior Software Developer** — GoMeta, Thessaloniki
+*03/2026 – Present*
+- Applied machine learning and computer vision techniques to develop and fine-tune 3 custom YOLO-based object detection models using Python and camera-specific datasets. ([more](https://github.com/AthTriantafyllou){:target="_blank"})
+- Gained hands-on experience in cross-platform software development by porting a Linux application to Windows and implementing automated build and release pipelines using GitHub Actions.
+- Contributed to building an AI assistant platform from scratch ([myaips.cloud](https://myaips.cloud){:target="_blank"}), utilizing Python, FastAPI, PostgreSQL, and Docker, with a focus on backend architecture, API integration, and Linux server deployment.
+- Worked with Linux-based application development, backend integration, and offline network communication, implementing an isolated LAN infrastructure connecting 5 locations.
 
 **Data Entry Specialist** — Scripta, Thessaloniki
 *03/2026 – 05/2026*
 - Processed and transferred structured records across internal systems with accuracy and consistency.
+
+**Web Developer Intern** — GoMeta, Thessaloniki
+*09/2025 – 03/2026*
+- Developed a personal habit-tracking application using React, TypeScript, Vite, and Supabase, implementing core functionality, authentication, and PostgreSQL-backed data storage. ([more](https://thanfyllou.eu/streaks/){:target="_blank"})
 
 **Staff & Inventory Manager** — Plenty, Thessaloniki
 *10/2022 – 08/2025*
@@ -40,7 +45,7 @@ redirect_from:
 
 **Freelance Developer** — Useappility IKE, Thessaloniki
 *07/2022*
-- Worked within the [ADAPT](https://useappility.com/en/adapt_app/){:target="_blank"} research project, integrating structured datasets into a digital platform.
+- Worked on the [ADAPT](https://useappility.com/en/adapt_app/){:target="_blank"} research project, integrating structured datasets into a digital platform.
 - Collected, translated, transformed, and formatted data into JSON for integration with a mobile application.
 
 ---
@@ -48,10 +53,9 @@ redirect_from:
 ## Projects
 
 **AI Video Analytics: Model Training and Cross-Platform Deployment**
-- Contributed to the development and deployment of an AI-powered detection system based on YOLO open-source models, fine-tuned using camera-specific video footage.
-- Gained practical experience with machine learning workflows, including model training and adaptation to specific detection scenarios.
-- Worked on backend infrastructure and software integration within an existing application architecture.
-- Ported a Linux-based application to Windows and automated the Windows release process using GitHub Actions. [View project](https://github.com/AthTriantafyllou/){:target="_blank"}
+- Developed and helped bring an AI-powered video analytics system from development to operational deployment. Trained and fine-tuned 3 custom YOLO-based detection models for human and vehicle detection across 3 distinct environments, using camera-specific footage. 
+- Designed and implemented an isolated LAN-based communication infrastructure connecting 5 locations, enabling secure offline data exchange between cameras and administrative systems, including model updates and video footage transfers.  
+- Additionally, migrated the existing Linux-based application to Windows and automated the build and release process using GitHub Actions. Created technical documentation, user guides, and operational procedures, and trained the succeeding support engineer to ensure long-term system maintainability.
 
 **AI Assistant Backend — GoMeta**
 - Contributed to the development of an AI assistant application using Python and FastAPI.
